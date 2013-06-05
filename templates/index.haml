@@ -1,0 +1,25 @@
+!!!
+%html
+  %head
+    %title= "Startup Advice - " + @line
+    %link{ :rel => 'stylesheet', :href => '/css/master.css' }
+    %script{ :type => "text/javascript", :src => "http://w.sharethis.com/button/buttons.js" }
+    %script{ :type => "text/javascript" }
+      :javascript
+        stLight.options({publisher: "cf30ee67-c0c1-47a1-b1c3-aae06085cec8", doNotHash: true, doNotCopy: false, hashAddressBar: false});
+  %body
+    %header.branding
+      %h3.logo Startup Advice
+      %nav
+        %a{ :href => '/' } Get a random quote
+      .sharing-buttons
+        %span{ :class => 'st_facebook_large', :displayText => 'Facebook' }
+        %span{ :class => 'st_twitter_large', :displayText => 'Tweet' }
+        %span{ :class => 'st_googleplus_large', :displayText => 'Google +' }
+        %span{ :class => 'st_fblike_large', :displayText => 'Facebook Like' }
+    .quote
+      .line= @line
+
+
+
+
