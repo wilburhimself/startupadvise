@@ -21,7 +21,7 @@
 21-Eliminate distractions.
 22-Don’t die.
 23-Be frugal.
-24-You’ll often hear conflicting advice about everything but “build a great product”.  This means you can go either way on much of the rest of it and it doesn’t really matter.  Just make a decision and get back to work.  Product/market fit is what matters.  You can—and will—make a lot of mistakes.
+24-You’ll often hear conflicting advice about everything but “build a great product”.  This means you can go either way on much of the rest of it and it doesn’t really matter.
 25-You make what you measure.
 26-Startups are very hard no matter what you do; you may as well go after a big opportunity.
 27-Momentum is critical.  Don’t lose it.
@@ -51,3 +51,4 @@
 51-Board observers are usually a headache.
 52-If you pivot, do it fully and with conviction.  The worst thing is to try to do a bit of the old and the new—it’s hard to kill your babies.
 53-It’s better to make a decision and be wrong than to equivocate.
+54-Just make a decision and get back to work.  Product/market fit is what matters.  You can—and will—make a lot of mistakes.
